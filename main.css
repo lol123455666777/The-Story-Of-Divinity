@@ -265,6 +265,11 @@ nav ul li a {
   color: #333;
   font-size: 17px;
 }
+#episodes {
+  width: 100%;
+  padding: 70px 0;
+  height: 100%;
+}
 @media (max-width:991px) {
 
   .container {
